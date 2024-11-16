@@ -18,8 +18,8 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
-### Developed by : SRINITHI V
-### Register No. : 212222110046
+### Developed by :SELVA KUMAR A
+### Register No. : 212222110042
 ```
 import seaborn as sns
 import matplotlib.pyplot as plt
